@@ -21,8 +21,8 @@ The prementioned web gui for aria2 works on an android device as well, but Trans
 All popular clients are supported: µTorrent, Transmission, rTorrent, Vuze, Deluge, BitTorrent 6, qBittorrent, Aria2 and many more by trandroid.  
 Moreover, its user-friendly UI makes managing your download task much easier than in the commandline.  
 
-![](http://www.transdroid.org/wp-content/uploads/2015/06/transdroid-2.5.1-main.png | width=160)  
-![](http://www.transdroid.org/wp-content/uploads/2009/04/transdroid-2.5.1-details.png | width=160)  
+![](http://www.transdroid.org/wp-content/uploads/2015/06/transdroid-2.5.1-main.png width=160)  
+![](http://www.transdroid.org/wp-content/uploads/2009/04/transdroid-2.5.1-details.png width=160)  
 Transdroid connects to the torrent client you have running at home or on your server. It typically does so by connecting to the (API of the) web interface of your client.   
 
 
